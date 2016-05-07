@@ -4,28 +4,28 @@
    <sku>00001</sku>
    <name>Item 1</name>
    <desc>This is a red dress.</desc>
-   <picture>00001.jpg</picture>
+   <image>00001.jpg</image>
    <price>100</price>
  </item>
  <item>
    <sku>00002</sku>
    <name>Item 2</name>
    <desc>This is a green shirt.</desc>
-   <picture>00002.jpg</picture>
+   <image>00002.jpg</image>
    <price>10</price>
  </item>
  <item>
    <sku>00003</sku>
    <name>Item 3</name>
    <desc>This is a blue hat.</desc>
-   <picture>00003.jpg</picture>
+   <image>00003.jpg</image>
    <price>15</price>
  </item>
  <item>
    <sku>00004</sku>
    <name>Item 4</name>
    <desc>This is a purple scarf.</desc>
-   <picture>00004.jpg</picture>
+   <image>00004.jpg</image>
    <price>15</price>
  </item>
-<items>
+</items>
